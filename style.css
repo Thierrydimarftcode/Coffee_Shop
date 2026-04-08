@@ -17,6 +17,6 @@ img {
     border: 2px solid black;
     border-radius: 10px;
 }
-.menu :hover {
+.menu:hover {
     background-color: #f5deb3;
 }
