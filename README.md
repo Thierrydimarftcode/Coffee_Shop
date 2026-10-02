@@ -28,9 +28,9 @@ WEB COFFEE/
 │   └── americano.jpg         # Foto menu Americano
 │
 ├── html
-│    └──index.html             # Halaman utama HTML
+│    └──index.html            # Halaman utama HTML
 ├── css
-│    └──style.css              # File styling CSS
+│    └──style.css             # File styling CSS
 │
 └── README.md                 # Dokumentasi proyek
  
